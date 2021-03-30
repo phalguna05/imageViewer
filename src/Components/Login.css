@@ -1,0 +1,13 @@
+.container {
+	margin-top: 10%;
+	padding: 20px;
+	width: 30%;
+	border-radius: 6px;
+	background-color: rgb(187, 187, 187);
+	box-shadow: 0 5px 10px rgba(154, 160, 185, 0.05),
+		0 15px 40px rgba(166, 173, 201, 0.2);
+	border-radius: 15px;
+}
+body {
+	background-color: #ffffff;
+}
